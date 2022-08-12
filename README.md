@@ -33,7 +33,7 @@
 * wait3 (man 2 wait3)
 * wait4 (man 2 wait4)
 * write (man 2 write)
-
+* simple_shell
 Description
 
 This is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program is been written entirely in C as a milestone project for Alx School.
