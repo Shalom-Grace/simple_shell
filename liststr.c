@@ -1,5 +1,4 @@
 #include "shell.h"
-
 /**
  * add_node - adds a node to the start of the list
  * @head: address of pointer to head node
@@ -8,6 +7,7 @@
  *
  * Return: size of list
  */
+
 list_t *add_node(list_t **head, const char *str, int num)
 {
 	list_t *new_head;
